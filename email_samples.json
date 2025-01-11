@@ -1,0 +1,44 @@
+{
+  "pitches": {
+    "1": {
+      "subject": "Loved your recent work for [Brand]",
+      "body": "Hi [Name], I just saw your recent work for [Brand], and I was blown away by how seamless the transitions were, especially [specific detail about their work]. It’s clear how much thought you put into the storytelling. I’m [Your Name], a [Your Role, e.g., motion designer/animator], and I specialize in [specific skills, e.g., creating dynamic animations that engage audiences]. I’d love to help you bring similar ideas to life. If you’re looking for an extra hand on your next project, I’d be thrilled to collaborate. Would you be open to chatting? Best, [Your Name]"
+    },
+    "2": {
+      "subject": "[Name], an idea for your next campaign",
+      "body": "Hi [Name], Your campaign for [Brand/Project] really stood out to me, especially how you [specific element they did, e.g., used bold typography to communicate your message]. It was so impactful! I’m [Your Name], and I specialize in [your specialty, e.g., creating visually striking animations and design concepts]. I had an idea for your next campaign that could [add value, e.g., increase engagement on social media or visually enhance storytelling]. If you’re interested, I’d be happy to share more thoughts. Let me know if you’re free to chat! Cheers, [Your Name]"
+    },
+    "3": {
+      "subject": "[Name], I’d love to collaborate on your next project",
+      "body": "Hi [Name], I’ve been following your work for a while, and your recent project with [specific project/brand] was exceptional. The [specific element] really elevated the message. I’m [Your Name], a [Your Role], and I’d love to collaborate with you on your next project. My expertise is in [your expertise, e.g., creating eye-catching motion graphics that amplify brand messages]. Let me know if you’re currently looking for collaborators. I’d love to help bring your vision to life! Best regards, [Your Name]"
+    },
+    "4": {
+      "subject": "Loved your recent work for [Brand]",
+      "body": "Hi [Name], Your work on [Brand’s Project] was stunning. I especially loved [specific detail, e.g., the creative color palette you used]. It was such a fresh take on [specific topic or industry]. I’m [Your Name], a [Your Role] with experience in [specific skill, e.g., designing unique visual narratives through animation]. I’d love to explore how I can contribute to your next project. Would you be open to discussing it further? Best, [Your Name]"
+    },
+    "5": {
+      "subject": "[Name], an idea for your next campaign",
+      "body": "Hi [Name], Your recent campaign for [Brand] really stood out. The [specific feature] was so well executed, it made me want to watch it twice! I’m [Your Name], a [Your Role], and I’ve worked on [relevant experience]. I had an idea for how you could incorporate [specific idea, e.g., motion graphics or interactive elements] into your next project to make it even more impactful. I’d love to hear your thoughts and share more ideas if you’re interested. Let me know if you’d like to chat! Cheers, [Your Name]"
+    },
+    "6": {
+      "subject": "[Name], I’d love to collaborate on your next project",
+      "body": "Hi [Name], I came across your portfolio and was captivated by your project for [specific project/brand]. The [specific detail, e.g., storytelling and pacing] really resonated with me, it was masterfully done! I’m [Your Name], a [Your Role], and I help businesses create [specific service or skill, e.g., engaging animations that drive results]. If you’re looking for fresh ideas or an extra hand, I’d love to be part of your next project. Let me know if you’re available to chat! Best regards, [Your Name]"
+    },
+    "7": {
+      "subject": "Loved your recent work for [Brand]",
+      "body": "Hi [Name], I saw the work you did for [Brand], and it was incredible. The way you [specific detail, e.g., seamlessly integrated motion and design] really took it to the next level. I’m [Your Name], a [Your Role], and I specialize in [specific expertise, e.g., crafting motion graphics that tell compelling stories]. If you’re looking for someone to help with future projects, I’d love to contribute. Let me know if you’d like to discuss this further! Cheers, [Your Name]"
+    },
+    "8": {
+      "subject": "[Name], an idea for your next campaign",
+      "body": "Hi [Name], I’ve been following your work, and your campaign for [Brand] blew me away. The way you [specific detail] was so innovative, it really stuck with me. I’m [Your Name], and I specialize in [specific skillset]. I had an idea for how [specific idea, e.g., incorporating animated micro-content] could enhance your next campaign and engage your audience even further. Would you be open to discussing it? Best, [Your Name]"
+    },
+    "9": {
+      "subject": "[Name], I’d love to collaborate on your next project",
+      "body": "Hi [Name], Your recent project for [Brand] was phenomenal. The [specific detail, e.g., creative direction and flow] was so polished, it’s clear you put a ton of thought into it. I’m [Your Name], a [Your Role], and I’ve helped brands like [specific brand] create [specific results]. If you’re looking for fresh ideas or an extra hand, I’d love to be part of your next project. Let me know if you’re available to chat! Best regards, [Your Name]"
+    },
+    "10": {
+      "subject": "Loved your recent work for [Brand]",
+      "body": "Hi [Name], I just wanted to say how much I admired your recent project for [Brand]. The [specific element, e.g., typography and animation choices] made such a bold statement, it was amazing. I’m [Your Name], a [Your Role], and I love collaborating on projects that push creative boundaries. If you’re open to it, I’d love to discuss how I could help with your next big idea. Let me know if that sounds good! Cheers, [Your Name]"
+    }
+  }
+}
